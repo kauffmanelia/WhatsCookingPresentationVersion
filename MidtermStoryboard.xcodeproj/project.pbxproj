@@ -1,0 +1,522 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		96181A0C1A09AC6F00519A7F /* FridgeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */; };
+		96C8C6011A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */; };
+		96C8C6021A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */; };
+		96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */; };
+		96C8C6051A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */; };
+		96CBD4541A08447600DE3EA0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4531A08447600DE3EA0 /* main.m */; };
+		96CBD4571A08447600DE3EA0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4561A08447600DE3EA0 /* AppDelegate.m */; };
+		96CBD45A1A08447600DE3EA0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4591A08447600DE3EA0 /* ViewController.m */; };
+		96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD45E1A08447600DE3EA0 /* Images.xcassets */; };
+		96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */; };
+		96CBD46E1A08447600DE3EA0 /* MidtermStoryboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */; };
+		CA17C4691A0C119E00249493 /* StringSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA17C4681A0C119E00249493 /* StringSearchViewController.m */; };
+		CAA5F6371A0D6E7A00B05A14 /* IngredientList.m in Sources */ = {isa = PBXBuildFile; fileRef = CAA5F6361A0D6E7A00B05A14 /* IngredientList.m */; };
+		CADF98EE1A09C5D50008B60F /* RecipeCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E01A09C5D50008B60F /* RecipeCollectionViewController.m */; };
+		CADF98EF1A09C5D50008B60F /* CoursePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E11A09C5D50008B60F /* CoursePickerViewController.m */; };
+		CADF98F01A09C5D50008B60F /* RecipeCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E31A09C5D50008B60F /* RecipeCollectionViewCell.m */; };
+		CADF98F11A09C5D50008B60F /* RecipeList.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E51A09C5D50008B60F /* RecipeList.m */; };
+		CADF98F21A09C5D50008B60F /* URLForAPICall.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E71A09C5D50008B60F /* URLForAPICall.m */; };
+		CADF98F31A09C5D50008B60F /* CourseList.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98EA1A09C5D50008B60F /* CourseList.m */; };
+		CADF98F41A09C5D50008B60F /* Ingredient.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98ED1A09C5D50008B60F /* Ingredient.m */; };
+		CADF98FC1A09D2B90008B60F /* RecipeGenieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98FB1A09D2B90008B60F /* RecipeGenieViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		96CBD4681A08447600DE3EA0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 96CBD4461A08447600DE3EA0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 96CBD44D1A08447600DE3EA0;
+			remoteInfo = MidtermStoryboard;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		96181A0A1A09AC6F00519A7F /* FridgeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FridgeTableViewController.h; path = ../FridgeTableViewController.h; sourceTree = "<group>"; };
+		96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FridgeTableViewController.m; path = ../FridgeTableViewController.m; sourceTree = "<group>"; };
+		96C8C5FF1A09A1C80090FBF9 /* FridgeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FridgeTableViewCell.h; path = ../FridgeTableViewCell.h; sourceTree = "<group>"; };
+		96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FridgeTableViewCell.m; path = ../FridgeTableViewCell.m; sourceTree = "<group>"; };
+		96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = StoryboardTuesNight.storyboard; path = ../StoryboardTuesNight.storyboard; sourceTree = "<group>"; };
+		96CBD44E1A08447600DE3EA0 /* MidtermStoryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MidtermStoryboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		96CBD4521A08447600DE3EA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96CBD4531A08447600DE3EA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		96CBD4551A08447600DE3EA0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		96CBD4561A08447600DE3EA0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		96CBD4581A08447600DE3EA0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		96CBD4591A08447600DE3EA0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		96CBD45E1A08447600DE3EA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		96CBD4611A08447600DE3EA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		96CBD4671A08447600DE3EA0 /* MidtermStoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MidtermStoryboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		96CBD46C1A08447600DE3EA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MidtermStoryboardTests.m; sourceTree = "<group>"; };
+		CA17C4671A0C119E00249493 /* StringSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StringSearchViewController.h; sourceTree = "<group>"; };
+		CA17C4681A0C119E00249493 /* StringSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StringSearchViewController.m; sourceTree = "<group>"; };
+		CAA5F6351A0D6E7A00B05A14 /* IngredientList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IngredientList.h; sourceTree = "<group>"; };
+		CAA5F6361A0D6E7A00B05A14 /* IngredientList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IngredientList.m; sourceTree = "<group>"; };
+		CADF98E01A09C5D50008B60F /* RecipeCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewController.m; sourceTree = "<group>"; };
+		CADF98E11A09C5D50008B60F /* CoursePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoursePickerViewController.m; sourceTree = "<group>"; };
+		CADF98E21A09C5D50008B60F /* RecipeCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionViewCell.h; sourceTree = "<group>"; };
+		CADF98E31A09C5D50008B60F /* RecipeCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewCell.m; sourceTree = "<group>"; };
+		CADF98E41A09C5D50008B60F /* RecipeCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionViewController.h; sourceTree = "<group>"; };
+		CADF98E51A09C5D50008B60F /* RecipeList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeList.m; sourceTree = "<group>"; };
+		CADF98E61A09C5D50008B60F /* RecipeList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeList.h; sourceTree = "<group>"; };
+		CADF98E71A09C5D50008B60F /* URLForAPICall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = URLForAPICall.m; sourceTree = "<group>"; };
+		CADF98E81A09C5D50008B60F /* URLForAPICall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = URLForAPICall.h; sourceTree = "<group>"; };
+		CADF98E91A09C5D50008B60F /* CoursePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoursePickerViewController.h; sourceTree = "<group>"; };
+		CADF98EA1A09C5D50008B60F /* CourseList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CourseList.m; sourceTree = "<group>"; };
+		CADF98EB1A09C5D50008B60F /* CourseList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CourseList.h; sourceTree = "<group>"; };
+		CADF98EC1A09C5D50008B60F /* Ingredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ingredient.h; sourceTree = "<group>"; };
+		CADF98ED1A09C5D50008B60F /* Ingredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ingredient.m; sourceTree = "<group>"; };
+		CADF98FA1A09D2B90008B60F /* RecipeGenieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeGenieViewController.h; sourceTree = "<group>"; };
+		CADF98FB1A09D2B90008B60F /* RecipeGenieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeGenieViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		96CBD44B1A08447600DE3EA0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96CBD4641A08447600DE3EA0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		96181A0D1A09ADE900519A7F /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */,
+			);
+			name = Storyboards;
+			path = MidtermStoryboard;
+			sourceTree = "<group>";
+		};
+		96CBD4451A08447600DE3EA0 = {
+			isa = PBXGroup;
+			children = (
+				96181A0D1A09ADE900519A7F /* Storyboards */,
+				96CBD4501A08447600DE3EA0 /* MidtermStoryboard */,
+				96CBD46A1A08447600DE3EA0 /* MidtermStoryboardTests */,
+				96CBD44F1A08447600DE3EA0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		96CBD44F1A08447600DE3EA0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				96CBD44E1A08447600DE3EA0 /* MidtermStoryboard.app */,
+				96CBD4671A08447600DE3EA0 /* MidtermStoryboardTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		96CBD4501A08447600DE3EA0 /* MidtermStoryboard */ = {
+			isa = PBXGroup;
+			children = (
+				96CBD4551A08447600DE3EA0 /* AppDelegate.h */,
+				96CBD4561A08447600DE3EA0 /* AppDelegate.m */,
+				CADF98FA1A09D2B90008B60F /* RecipeGenieViewController.h */,
+				CADF98FB1A09D2B90008B60F /* RecipeGenieViewController.m */,
+				CADF98F51A09C5E20008B60F /* ReceipeCollectionView */,
+				CADF98E61A09C5D50008B60F /* RecipeList.h */,
+				CADF98E51A09C5D50008B60F /* RecipeList.m */,
+				CADF98E81A09C5D50008B60F /* URLForAPICall.h */,
+				CADF98E71A09C5D50008B60F /* URLForAPICall.m */,
+				CA17C4671A0C119E00249493 /* StringSearchViewController.h */,
+				CA17C4681A0C119E00249493 /* StringSearchViewController.m */,
+				CADF98E91A09C5D50008B60F /* CoursePickerViewController.h */,
+				CADF98E11A09C5D50008B60F /* CoursePickerViewController.m */,
+				CADF98EB1A09C5D50008B60F /* CourseList.h */,
+				CADF98EA1A09C5D50008B60F /* CourseList.m */,
+				CADF98F61A09C6130008B60F /* Ingredient Stuff */,
+				96181A0A1A09AC6F00519A7F /* FridgeTableViewController.h */,
+				96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */,
+				96C8C5FF1A09A1C80090FBF9 /* FridgeTableViewCell.h */,
+				96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */,
+				96CBD4581A08447600DE3EA0 /* ViewController.h */,
+				96CBD4591A08447600DE3EA0 /* ViewController.m */,
+				96CBD45E1A08447600DE3EA0 /* Images.xcassets */,
+				96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */,
+				96CBD4511A08447600DE3EA0 /* Supporting Files */,
+			);
+			path = MidtermStoryboard;
+			sourceTree = "<group>";
+		};
+		96CBD4511A08447600DE3EA0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				96CBD4521A08447600DE3EA0 /* Info.plist */,
+				96CBD4531A08447600DE3EA0 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		96CBD46A1A08447600DE3EA0 /* MidtermStoryboardTests */ = {
+			isa = PBXGroup;
+			children = (
+				96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */,
+				96CBD46B1A08447600DE3EA0 /* Supporting Files */,
+			);
+			path = MidtermStoryboardTests;
+			sourceTree = "<group>";
+		};
+		96CBD46B1A08447600DE3EA0 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				96CBD46C1A08447600DE3EA0 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CADF98F51A09C5E20008B60F /* ReceipeCollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				CADF98E41A09C5D50008B60F /* RecipeCollectionViewController.h */,
+				CADF98E01A09C5D50008B60F /* RecipeCollectionViewController.m */,
+				CADF98E21A09C5D50008B60F /* RecipeCollectionViewCell.h */,
+				CADF98E31A09C5D50008B60F /* RecipeCollectionViewCell.m */,
+			);
+			name = ReceipeCollectionView;
+			sourceTree = "<group>";
+		};
+		CADF98F61A09C6130008B60F /* Ingredient Stuff */ = {
+			isa = PBXGroup;
+			children = (
+				CADF98EC1A09C5D50008B60F /* Ingredient.h */,
+				CADF98ED1A09C5D50008B60F /* Ingredient.m */,
+				CAA5F6351A0D6E7A00B05A14 /* IngredientList.h */,
+				CAA5F6361A0D6E7A00B05A14 /* IngredientList.m */,
+			);
+			name = "Ingredient Stuff";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		96CBD44D1A08447600DE3EA0 /* MidtermStoryboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96CBD4711A08447600DE3EA0 /* Build configuration list for PBXNativeTarget "MidtermStoryboard" */;
+			buildPhases = (
+				96CBD44A1A08447600DE3EA0 /* Sources */,
+				96CBD44B1A08447600DE3EA0 /* Frameworks */,
+				96CBD44C1A08447600DE3EA0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MidtermStoryboard;
+			productName = MidtermStoryboard;
+			productReference = 96CBD44E1A08447600DE3EA0 /* MidtermStoryboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+		96CBD4661A08447600DE3EA0 /* MidtermStoryboardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 96CBD4741A08447600DE3EA0 /* Build configuration list for PBXNativeTarget "MidtermStoryboardTests" */;
+			buildPhases = (
+				96CBD4631A08447600DE3EA0 /* Sources */,
+				96CBD4641A08447600DE3EA0 /* Frameworks */,
+				96CBD4651A08447600DE3EA0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				96CBD4691A08447600DE3EA0 /* PBXTargetDependency */,
+			);
+			name = MidtermStoryboardTests;
+			productName = MidtermStoryboardTests;
+			productReference = 96CBD4671A08447600DE3EA0 /* MidtermStoryboardTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		96CBD4461A08447600DE3EA0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Calvin Nisbet";
+				TargetAttributes = {
+					96CBD44D1A08447600DE3EA0 = {
+						CreatedOnToolsVersion = 6.1;
+					};
+					96CBD4661A08447600DE3EA0 = {
+						CreatedOnToolsVersion = 6.1;
+						TestTargetID = 96CBD44D1A08447600DE3EA0;
+					};
+				};
+			};
+			buildConfigurationList = 96CBD4491A08447600DE3EA0 /* Build configuration list for PBXProject "MidtermStoryboard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 96CBD4451A08447600DE3EA0;
+			productRefGroup = 96CBD44F1A08447600DE3EA0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				96CBD44D1A08447600DE3EA0 /* MidtermStoryboard */,
+				96CBD4661A08447600DE3EA0 /* MidtermStoryboardTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		96CBD44C1A08447600DE3EA0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */,
+				96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
+				96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96CBD4651A08447600DE3EA0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96C8C6051A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		96CBD44A1A08447600DE3EA0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CADF98EE1A09C5D50008B60F /* RecipeCollectionViewController.m in Sources */,
+				CA17C4691A0C119E00249493 /* StringSearchViewController.m in Sources */,
+				96CBD45A1A08447600DE3EA0 /* ViewController.m in Sources */,
+				CADF98FC1A09D2B90008B60F /* RecipeGenieViewController.m in Sources */,
+				CADF98F31A09C5D50008B60F /* CourseList.m in Sources */,
+				96CBD4571A08447600DE3EA0 /* AppDelegate.m in Sources */,
+				CADF98F41A09C5D50008B60F /* Ingredient.m in Sources */,
+				96181A0C1A09AC6F00519A7F /* FridgeTableViewController.m in Sources */,
+				CADF98F01A09C5D50008B60F /* RecipeCollectionViewCell.m in Sources */,
+				96C8C6011A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */,
+				96CBD4541A08447600DE3EA0 /* main.m in Sources */,
+				CADF98EF1A09C5D50008B60F /* CoursePickerViewController.m in Sources */,
+				CADF98F21A09C5D50008B60F /* URLForAPICall.m in Sources */,
+				CAA5F6371A0D6E7A00B05A14 /* IngredientList.m in Sources */,
+				CADF98F11A09C5D50008B60F /* RecipeList.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		96CBD4631A08447600DE3EA0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96CBD46E1A08447600DE3EA0 /* MidtermStoryboardTests.m in Sources */,
+				96C8C6021A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		96CBD4691A08447600DE3EA0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 96CBD44D1A08447600DE3EA0 /* MidtermStoryboard */;
+			targetProxy = 96CBD4681A08447600DE3EA0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				96CBD4611A08447600DE3EA0 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		96CBD46F1A08447600DE3EA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		96CBD4701A08447600DE3EA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		96CBD4721A08447600DE3EA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MidtermStoryboard/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		96CBD4731A08447600DE3EA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MidtermStoryboard/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		96CBD4751A08447600DE3EA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = MidtermStoryboardTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MidtermStoryboard.app/MidtermStoryboard";
+			};
+			name = Debug;
+		};
+		96CBD4761A08447600DE3EA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = MidtermStoryboardTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MidtermStoryboard.app/MidtermStoryboard";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		96CBD4491A08447600DE3EA0 /* Build configuration list for PBXProject "MidtermStoryboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96CBD46F1A08447600DE3EA0 /* Debug */,
+				96CBD4701A08447600DE3EA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96CBD4711A08447600DE3EA0 /* Build configuration list for PBXNativeTarget "MidtermStoryboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96CBD4721A08447600DE3EA0 /* Debug */,
+				96CBD4731A08447600DE3EA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		96CBD4741A08447600DE3EA0 /* Build configuration list for PBXNativeTarget "MidtermStoryboardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96CBD4751A08447600DE3EA0 /* Debug */,
+				96CBD4761A08447600DE3EA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 96CBD4461A08447600DE3EA0 /* Project object */;
+}

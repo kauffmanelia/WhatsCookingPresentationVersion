@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09BA5A62-BEE5-4F30-911D-86F8F9759C41</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MidtermStoryboard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38300ACF11B008361521622EA61868889B613E92</key>
+		<string>https://github.com/cnisb044/WhatsCookingMerged.git</string>
+		<key>8746DA9F41C34D258161B20BFB4DC842A6B05722</key>
+		<string>https://github.com/cnisb044/MidtermStoryBoard.git</string>
+		<key>E2584D914A3FE042994062B2DC316BBF7F3C9421</key>
+		<string>https://github.com/kauffmanelia/iOS-Student-WarcraftIII.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MidtermStoryboard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38300ACF11B008361521622EA61868889B613E92</key>
+		<string>../..</string>
+		<key>8746DA9F41C34D258161B20BFB4DC842A6B05722</key>
+		<string>../../../MidtermStoryboard</string>
+		<key>E2584D914A3FE042994062B2DC316BBF7F3C9421</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cnisb044/WhatsCookingMerged.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38300ACF11B008361521622EA61868889B613E92</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2584D914A3FE042994062B2DC316BBF7F3C9421</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8746DA9F41C34D258161B20BFB4DC842A6B05722</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MidtermStoryboard</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>38300ACF11B008361521622EA61868889B613E92</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WhatsCookingMerged</string>
+		</dict>
+	</array>
+</dict>
+</plist>
